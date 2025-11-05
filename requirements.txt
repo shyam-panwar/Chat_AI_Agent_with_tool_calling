@@ -1,18 +1,4 @@
-# Uninstall instructions:
-# 1) Activate your virtual environment if you used one:
-#    Windows: .\venv\Scripts\activate
-#    macOS/Linux: source venv/bin/activate
-# 2) Uninstall all packages listed in this file:
-#    python -m pip uninstall -r requirements.txt -y
-#    or: pip3 uninstall -r requirements.txt -y
-# 3) If packages were installed system-wide (not recommended), use sudo on macOS/Linux:
-#    sudo python -m pip uninstall -r requirements.txt -y
-# 4) Verify removal:
-#    python -m pip list
-#    python -m pip freeze
-# 5) To remove the file itself (optional):
-#    del requirements.txt          # Windows
-#    rm requirements.txt           # macOS/Linux
+
 
 langgraph
 langchain-core

@@ -38,7 +38,7 @@ add_thread(st.session_state['thread_id'])
 
 # ******************************* Sidebar UI *************************************
 
-st.sidebar.title('KLZ AI AGENT')
+st.sidebar.title('SHYAM AI AGENT')
 
 if st.sidebar.button("New Chat"):
     reset_chat()
